@@ -1,0 +1,12 @@
+body {
+  background-color: pink;
+}
+
+/* class */
+.para {
+  background-color: aqua;
+}
+/* id  */
+#para2 {
+  color: white;
+}
